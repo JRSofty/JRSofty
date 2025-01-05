@@ -1,5 +1,5 @@
 # 💫 About Me:
-I use this space mostly for my personal website, as well as the business website for my wife. I do have a few other projects here that from time to time I toy around with. In particular I'm interested in building a RSS feed reader application.
+I use this space mostly for my personal website, as well as the business website for my wife. I do have a few other projects here that from time to time I toy around with. In particular I'm interested in building a RSS feed reader application. Currently I'm working on adding a very basic blogging feature into my person website.
 
 
 ## 🌐 Socials:
